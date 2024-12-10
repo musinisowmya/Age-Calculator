@@ -1,0 +1,18 @@
+
+
+ **HTML Structure**:
+   - Provides the layout for an age calculator with an input field for the birth date, a button to trigger age calculation, and a result display section.
+
+ **CSS Styling**:
+   - Applies a clean, visually appealing design with responsive layout.
+   - Includes a background image, a transparent white card-style calculator, and hover/focus effects on buttons and input fields for better user interaction.
+
+ **JavaScript Logic**:
+   - Captures the selected birth date and calculates the age in years, months, and days by comparing it with the current date.
+   - Handles edge cases, like invalid or incomplete input and birthdays that haven't occurred this year.
+
+**Interactivity**:
+   - Displays the calculated age dynamically in the result section when the user clicks the "Calculate Age" button.
+
+ **User Experience Enhancements**:
+   - Ensures the design is responsive for smaller devices and visually blends with the background image.
